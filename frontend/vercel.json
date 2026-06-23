@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://crm-backend-5hsr.onrender.com/api/:path*"
+      "destination": "https://crm-backend-docker-891w.onrender.com/api/:path*"
     }
   ]
 }
